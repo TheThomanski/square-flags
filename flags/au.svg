@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 5040 5040">
+   <defs id="defs10">
+      <clipPath id="c1">
+         <path d="M 0,0 H 3 V 3 H 0 Z" />
+      </clipPath>
+      <clipPath id="c2">
+         <path d="M 0,0 V 1.5 H 6 V 3 3 Z M 6,0 H 3 V 3 H 0 v 0 z" />
+      </clipPath>
+      <clipPath id="t">
+         <path d="M1.5,1.5h1.5v1.5zv1.5h-1.5zh-1.5v-1.5zv-1.5h1.5z"/>
+      </clipPath>
+      <path id="Star7" d="M 0,-360 69.421398,-144.15502 281.45933,-224.45633 155.98847,-35.603349 350.97405,80.107536 125.09304,99.758368 156.19815,324.34879 0,160 -156.19815,324.34879 -125.09304,99.758368 -350.97405,80.107536 -155.98847,-35.603349 -281.45933,-224.45633 l 212.037932,80.30131 z" />
+      <path id="Star5" d="M 0,-210 54.859957,-75.508253 199.72187,-64.893569 88.765275,28.841586 123.4349,169.89357 0,93.333333 -123.4349,169.89357 -88.765275,28.841586 -199.72187,-64.893569 -54.859957,-75.508253 Z" />
+   </defs>
+   <g transform="scale(840,840)" id="g22">
+      <rect width="6" height="6" fill="#00008B" id="rect12" x="0" y="0" />
+      <g clip-path="url(#c1)">
+         <path d="M0,0 3,3M3,0 0,3" stroke="#FFF" stroke-width="0.6" />
+         <path d="M0,0 3,3M3,0 0,3" clip-path="url(#t)" stroke="#FF0000" stroke-width="0.4" />
+         <path d="M1.5,0v3M0,1.5h3" stroke="#FFF" />
+         <path d="M1.5,0v3M0,1.5h3" stroke="#FF0000" stroke-width="0.6" />
+      </g>
+   </g>
+   <g fill="#ffffff" transform="matrix(0.81766394,0,0,0.83868965,-798.91697,603.69887)">
+      <use id="Comwlth" xlink:href="#Star7" transform="matrix(2.1,0,0,2.1,2520,3780)" x="0" y="0" width="100%" height="100%" />
+   </g>
+   <g fill="#ffffff">
+      <use id="αCrucis" xlink:href="#Star7" x="5670" y="4200" width="100%" height="100%" transform="matrix(0.81766394,0,0,0.83869733,-798.91697,674.582)" />
+      <use id="βCrucis" xlink:href="#Star7" x="4410" y="2205" width="100%" height="100%" transform="matrix(0.81766394,0,0,0.83870287,-798.91697,352.78193)" />
+      <use id="γCrucis" xlink:href="#Star7" x="5670" y="840" width="100%" height="100%" transform="matrix(0.81766394,0,0,0.83869733,-798.91697,132.63391)" />
+      <use id="δCrucis" xlink:href="#Star7" x="6790" y="1869" width="100%" height="100%" transform="matrix(0.81766394,0,0,0.8386938,-798.91697,298.60291)" />
+      <use id="εCrucis" xlink:href="#Star5" x="6174" y="2730" width="100%" height="100%" transform="matrix(0.81766394,0,0,0.85973487,-798.91697,380.10138)" />
+   </g>
+</svg>

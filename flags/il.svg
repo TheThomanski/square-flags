@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800">
+   <path d="M 0,0 H 800 V 800 H 0 Z" fill="#ffffff" id="path2" style="stroke-width:0.852803" />
+   <path d="M 0,75 H 800 V 200 H 0 Z" fill="#0038b8" id="path4" style="stroke-width:0.852803" />
+   <path d="M 0,600 H 800 V 725 H 0 Z" fill="#0038b8" id="path6" style="stroke-width:0.852803" />
+   <path d="M 273.81566,472.85253 H 526.18435 L 400.00001,254.29492 Z m 126.18435,72.85255 126.1843,-218.55765 H 273.81566 Z" fill="none" stroke="#0038b8" stroke-width="27.5" id="path8" />
+</svg>

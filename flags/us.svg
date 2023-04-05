@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="650" viewBox="0 0 3900 3900">
+   <rect width="3900" height="3900" fill="#b22234" />
+   <g fill="#fff">
+      <rect width="7410" height="300" y="300" id="w" />
+      <use href="#w" y="600" />
+      <use href="#w" y="1200" />
+      <use href="#w" y="1800" />
+      <use href="#w" y="2400" />
+      <use href="#w" y="3000" />
+   </g>
+   <g id="g72" transform="scale(0.70850202)">
+      <rect width="2964" height="2964" fill="#3c3b6e" />
+      <g fill="#fff">
+         <g>
+            <path id="s" d="M 247,187.86 317.53423,404.94204 132.87322,270.77796 H 361.12678 L 176.46577,404.94204 Z" />
+            <use href="#s" x="0" y="592.8" />
+            <use href="#s" x="0" y="1185.6" />
+            <use href="#s" x="0" y="1778.4" />
+            <use href="#s" x="0" y="2371.2" />
+         </g>
+         <g>
+            <use href="#s" x="247" y="296.4" />
+            <use href="#s" x="247" y="889.2" />
+            <use href="#s" x="247" y="1482" />
+            <use href="#s" x="247" y="2074.8" />
+         </g>
+         <g>
+            <use href="#s" x="494" y="0" />
+            <use href="#s" x="494" y="592.8" />
+            <use href="#s" x="494" y="1185.6" />
+            <use href="#s" x="494" y="1778.4" />
+            <use href="#s" x="494" y="2371.2" />
+         </g>
+         <g>
+            <use href="#s" x="741" y="296.4" />
+            <use href="#s" x="741" y="889.2" />
+            <use href="#s" x="741" y="1482" />
+            <use href="#s" x="741" y="2074.8" />
+         </g>
+         <g>
+            <use href="#s" x="988" y="0" />
+            <use href="#s" x="988" y="592.8" />
+            <use href="#s" x="988" y="1185.6" />
+            <use href="#s" x="988" y="1778.4" />
+            <use href="#s" x="988" y="2371.2" />
+         </g>
+         <g>
+            <use href="#s" x="1235" y="296.4" />
+            <use href="#s" x="1235" y="889.2" />
+            <use href="#s" x="1235" y="1482" />
+            <use href="#s" x="1235" y="2074.8" />
+         </g>
+         <g>
+            <use href="#s" x="1482" y="0" />
+            <use href="#s" x="1482" y="592.8" />
+            <use href="#s" x="1482" y="1185.6" />
+            <use href="#s" x="1482" y="1778.4" />
+            <use href="#s" x="1482" y="2371.2" />
+         </g>
+         <g>
+            <use href="#s" x="1729" y="296.4" />
+            <use href="#s" x="1729" y="889.2" />
+            <use href="#s" x="1729" y="1482" />
+            <use href="#s" x="1729" y="2074.8" />
+         </g>
+         <g>
+            <use href="#s" x="1977" y="0" />
+            <use href="#s" x="1977" y="592.8" />
+            <use href="#s" x="1977" y="1185.6" />
+            <use href="#s" x="1977" y="1778.4" />
+            <use href="#s" x="1977" y="2371.2" />
+         </g>
+         <g>
+            <use href="#s" x="2223" y="296.4" />
+            <use href="#s" x="2223" y="889.2" />
+            <use href="#s" x="2223" y="1482" />
+            <use href="#s" x="2223" y="2074.8" />
+         </g>
+         <g>
+            <use href="#s" x="2470" y="0" />
+            <use href="#s" x="2470" y="592.8" />
+            <use href="#s" x="2470" y="1185.6" />
+            <use href="#s" x="2470" y="1778.4" />
+            <use href="#s" x="2470" y="2371.2" />
+         </g>
+      </g>
+   </g>
+</svg>

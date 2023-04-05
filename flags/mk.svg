@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="-140 -140 140 140" fill="#f8e92e">
+   <rect x="-140" y="-140" width="140" height="140" fill="#D82126" />
+   <path d="m -140,-119 v -21 h 21 L -21,0 h 21 v -21 z" />
+   <path d="m -140,-21 v 21 h 21 L -21,-140 h 21 v 21 z" />
+   <path d="m -84,-140 h 28 L -84,-3.0000001e-7 h 28 z" />
+   <path d="M -140,-56 V -84 L 3e-6,-56 v -28 z" />
+   <circle r="25" cx="-70" cy="-70" fill="#d82126"/>
+   <circle r="20" cx="-70" cy="-70" />
+</svg>
