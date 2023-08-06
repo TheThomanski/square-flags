@@ -1,0 +1,29 @@
+<svg version="1.1" width="540" height="540" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs4">
+        <g id="s">
+            <g id="c">
+                <path id="t" d="M 0,0 V 1 H 0.5 Z" transform="rotate(18,3.1568758,-0.5)" />
+                <use xlink:href="#t" transform="scale(-1,1)" id="use1" />
+            </g>
+            <g id="a">
+                <use xlink:href="#c" transform="rotate(72)" id="use2" />
+                <use xlink:href="#c" transform="rotate(144)" id="use3" />
+            </g>
+            <use xlink:href="#a" transform="scale(-1,1)" id="use4" />
+        </g>
+    </defs>
+    <path d="M 0,0 V 540 H 540 V 0 Z" style="fill:#003399;stroke-width:0.816496" id="path12" />
+    <g fill="#ffcc00" transform="matrix(30,0,0,30,270,270)" id="g12">
+        <use xlink:href="#s" y="-6" id="use5" />
+        <use xlink:href="#s" y="6" id="use6" />
+        <g id="l">
+            <use xlink:href="#s" x="-6" id="use7" />
+            <use xlink:href="#s" transform="rotate(-144,-2.3441661,-2.1106967)" id="use8" />
+            <use xlink:href="#s" transform="rotate(144,-2.1106967,-2.3441661)" id="use9" />
+            <use xlink:href="#s" transform="rotate(72,-4.6626491,-2.0759451)" id="use10" />
+            <use xlink:href="#s" transform="rotate(72,-5.0759451,0.53350333)" id="use11" />
+        </g>
+        <use xlink:href="#l" transform="scale(-1,1)" id="use12" />
+    </g>
+</svg>
