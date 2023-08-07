@@ -1,0 +1,58 @@
+<svg height="600" width="600" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+	<defs id="defs7">
+		<clipPath id="Canton">
+			<path d="M 0,0 H 600 V 300 H 0 Z" id="path1" />
+		</clipPath>
+		<clipPath id="Diagonals">
+			<path d="M 0,0 300,150 H 0 Z M 300,0 H 600 L 300,150 Z m 0,150 h 300 v 150 z m 0,0 V 300 H 0 Z"
+				id="path2" />
+		</clipPath>
+		<g id="Pentagram">
+			<g id="Arm" transform="translate(0,-0.324925)">
+				<path d="M 0,0 V 0.5 L 1,0 Z" id="path3" />
+				<path d="M 0,0 V -0.5 L 1,0 Z" transform="rotate(-36,1,0)" id="path4" />
+			</g>
+			<use xlink:href="#Arm" transform="scale(-1,1)" id="use4" />
+			<use xlink:href="#Arm" transform="rotate(72)" id="use5" />
+			<use xlink:href="#Arm" transform="rotate(-72)" id="use6" />
+			<use xlink:href="#Arm" transform="matrix(-0.30901699,0.95105652,0.95105652,0.30901699,0,0)" id="use7" />
+		</g>
+	</defs>
+	<rect fill="#012169" x="0" y="0" width="600" height="600" id="rect7" style="stroke-width:0.707107" />
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="300" height="300">
+		<clipPath id="t">
+			<path d="M15,15h15v15zv15h-15zh-15v-15zv-15h15z" />
+		</clipPath>
+		<g>
+			<path d="M0,0v30h60V0z" fill="#012169" />
+			<path d="M0,0 30,30M30,0 0,30" stroke="#FFF" stroke-width="6" />
+			<path d="M0,0 30,30M30,0 0,30" clip-path="url(#t)" stroke="#C8102E" stroke-width="4" />
+			<path d="M15,0v30M0,15h30" stroke="#FFF" stroke-width="10" />
+			<path d="M15,0v30M0,15h30" stroke="#C8102E" stroke-width="6" />
+		</g>
+	</svg>
+	<g id="Southern_Cross-3" transform="translate(-93.143937,4.5938894e-4)">
+		<g id="Gamma_Crucis-3" transform="translate(-356.85606)">
+			<use xlink:href="#Pentagram" fill="#ffffff" transform="matrix(45.4,0,0,45.4,900,120)" id="use8-8" />
+			<use xlink:href="#Pentagram" fill="#c8102e" transform="matrix(30,0,0,30,900,120)" id="use9-6" />
+		</g>
+		<g transform="rotate(82,900,240)" id="g13-6">
+			<g id="Delta_Crucis-8" transform="translate(-50.949634,362.52549)">
+				<use xlink:href="#Pentagram" fill="#ffffff"
+					transform="matrix(5.6225933,-40.00683,40.00683,5.6225933,900,120)" id="use10-6" />
+				<use xlink:href="#Pentagram" fill="#c8102e"
+					transform="matrix(3.4793275,-24.756702,24.756702,3.4793275,900,120)" id="use11-2" />
+			</g>
+			<g id="Beta_Crucis-8" transform="translate(-44.927656,319.67689)">
+				<use xlink:href="#Pentagram" fill="#ffffff"
+					transform="matrix(6.3184588,-44.95817,44.95817,6.3184588,900,380)" id="use12-5" />
+				<use xlink:href="#Pentagram" fill="#c8102e"
+					transform="matrix(4.175193,-29.708042,29.708042,4.175193,900,380)" id="use13-6" />
+			</g>
+		</g>
+		<g id="Alpha_Crucis-5" transform="translate(-351.85606)">
+			<use xlink:href="#Pentagram" fill="#ffffff" transform="matrix(50.4,0,0,50.4,900,480)" id="use14-2" />
+			<use xlink:href="#Pentagram" fill="#c8102e" transform="matrix(35,0,0,35,900,480)" id="use15-9" />
+		</g>
+	</g>
+</svg>
