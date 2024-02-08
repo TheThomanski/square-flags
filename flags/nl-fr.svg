@@ -1,0 +1,18 @@
+<svg width="500" height="500" viewBox="0 0 910 910" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path id="pomp"
+        d="m 0,12 a 16.143,16.143 0 0 1 -14,-16 7,8 0 0 1 7,-8 6,8 0 0 1 6,7 1,1 0 1 0 2,0 6,8 0 0 1 6,-7 7,8 0 0 1 7,8 16.143,16.143 0 0 1 -14,16 z"
+        fill="#EE3E34" transform="matrix(3.8026459,2.632586,-2.632586,3.8026459,0,0)" />
+    <rect width="910" height="910" fill="#0155A5" />
+    <g fill="#FFF" transform="scale(130)" stroke-width="0.015" stroke="#FFF">
+        <path d="M 0,3 V 5 L 2,7 H 4 Z" />
+        <path d="M 1,0 H 0 V 1 L 6,7 H 7 V 6 Z" />
+        <path d="M 3,0 H 5 L 7,2 V 4 Z" />
+    </g>
+    <use xlink:href="#pomp" x="212.33299" y="147" transform="matrix(1,0,0,1,0,61.911495)" />
+    <use xlink:href="#pomp" x="212.33299" y="147" transform="matrix(1,0,0,1,242.66673,304.5785)" />
+    <use xlink:href="#pomp" x="212.33299" y="147" transform="matrix(1,0,0,1,-121.33327,460.5785)" />
+    <use xlink:href="#pomp" x="212.33299" y="147" transform="matrix(1,0,0,1,36.351725,618.2625)" />
+    <use xlink:href="#pomp" x="212.33299" y="147" transform="matrix(1,0,0,1,485.33373,547.2445)" />
+    <use xlink:href="#pomp" x="212.33299" y="147" transform="matrix(1,0,0,1,448.98173,-9.1065049)" />
+    <use xlink:href="#pomp" x="212.33299" y="147" transform="matrix(1,0,0,1,606.66673,148.5785)" />
+</svg>
